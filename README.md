@@ -22,6 +22,7 @@ latest(2022/02/11時点ではv2.4.1)のsakura-tag-v2.4.1-build2849-ee8234f-Win32
    
 **インストール後**  
 設定を変えて.htmlファイルや.cssファイルを編集する時に、より見易くなるようにする。  
+※画像はクリックで拡大します。  
 
 上部メニューから「設定」→「タイプ別設定一覧」を選択する。  
 <img src="https://evofan.github.io/test_sakura_editor/screenshot/pic_sakura1.jpg" width="50%">  
